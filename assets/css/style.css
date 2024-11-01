@@ -1,0 +1,43 @@
+/******************************************
+ *
+ *  WPSimpleFaq Stylesheet Documents
+ *  Version: 1.0
+ *  Created on : 20 Nov, 2017, 7:46:00 PM
+ *  Author     : kapil
+ *
+ *****************************************/
+
+details.wpsimplefaq{
+
+}
+
+details.wpsimplefaq summary{
+    cursor: pointer;
+    background-color: #42464b;
+    color: #ffffff;
+    font-weight: 600;
+    padding:10px;
+    margin:5px 0px;
+}
+
+details.wpsimplefaq summary:focus{
+    outline: none;
+}
+
+details.wpsimplefaqcontent{
+
+}
+
+a.wpsimplefaqstag{
+    text-decoration: none;
+    padding:5px;
+    border-radius: 3px;
+}
+
+h2.wpsimplefaqscat{
+    border-bottom: 1px solid #6c7d8e;
+}
+
+div.wpsimplefaqspacer{
+    margin:0px;
+}
